@@ -1,0 +1,111 @@
+.header{
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.218);
+    width: 100%;
+    display: flex;
+    
+}
+.logo{
+    height: 100%;
+    /* background-color: #b22222; */
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav{
+    height: 100%;
+    /* background-color: blue; */
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact{
+    height: 100%;
+    /* background-color: rgb(44, 151, 151); */
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navm{
+    height: 80%;
+    width: 70%;
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: space-between;
+}
+.d1{
+    height: 100%;
+    /* background-color: blueviolet; */
+    color: white;
+    font-weight: bolder;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn{
+    padding: 10px;
+    width: 45%;
+    background-color: #6AACC2;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px;
+    color: white;
+    cursor: pointer;
+}
+.top{
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.189);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    display: flex;
+}
+.left{
+    height: 100%;
+    width: 70%;
+    /* background-color: yellow; */
+    display: flex;
+}
+.right{
+    height: 100%;
+    width: 30%;
+    /* background-color: orange; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.l1{
+    height: 100%;
+    width: 28%;
+    /* background-color: violet; */
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r1{
+    height: 100%;
+    width: 50%;
+    /* background-color: palegreen; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loc{
+    height: 70%;
+    /* background-color: #b22222; */
+}
+.loctext{
+    margin-left: 10px;
+    font-size: small;
+    font-weight: 500;
+}
+.soc{
+    height: 32px;
+    margin-right: 10px;
+}
